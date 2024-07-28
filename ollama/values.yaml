@@ -1,0 +1,9 @@
+replicaCount: 1
+image: ollama/ollama
+#
+# You will eventually need all 3 of these to group inference workloads together
+# on GPU nodes.
+#
+nodeSelector: {}
+tolerations: []
+affinity: {}
