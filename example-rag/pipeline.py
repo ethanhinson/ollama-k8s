@@ -11,7 +11,7 @@ from llama_index.core.node_parser import JSONNodeParser
 from model import EmbeddingModel
 from vector import Vector
 
-redis_host = os.environ.get("REDIS_HOST", "localhost")
+redis_host = os.environ.get("REDIS_HOST", "127.0.0.1")
 redis_port = os.environ.get("REDIS_PORT", "6379")
 
 class Pipeline:

@@ -2,3 +2,4 @@
 .DS_Store
 example-rag/db/*
 !example-rag/db/.gitkeep
+example-rag/__pycache__/*

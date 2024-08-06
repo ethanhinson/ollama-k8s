@@ -2,3 +2,5 @@ llama-index-storage-docstore-redis
 llama-index-vector-stores-redis
 llama-index-embeddings-huggingface
 llama-index-readers-json
+llama-index-llms-openai
+llama-index-llms-ollama

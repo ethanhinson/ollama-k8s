@@ -7,8 +7,6 @@ class Vector:
     def get_store(self):
         if(self.vector_store):
             return self.vector_store
-        redis_host = os.environ.get("REDIS_HOST", "localhost")
-        redis_port = os.environ.get("REDIS_PORT", "6379")
         custom_schema = IndexSchema.from_dict(
             {
                 "index": {"name": "retros", "prefix": "doc"},
@@ -28,9 +26,8 @@ class Vector:
                 ],
             }
         )
-
         self.vector_store = RedisVectorStore(
             schema=custom_schema,
-            redis_url=print(f"redis://{redis_host}:{redis_port}"),
+            redis_url="redis://127.0.0.1:6379",
         )
         return self.vector_store
