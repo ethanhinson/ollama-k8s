@@ -29,3 +29,13 @@ python ./example-app/app.py
 ```
 
 - Visit `http://localhost:8999` in your browser to receive a motivational llama message.
+
+## RAG Pipeline
+
+An example real time RAG pipeline is provided. We use Redis as a vector database and document cache.
+
+### Pre-requisites
+
+Assuming you have the provided `kind` cluster running locally. You can use the following to install a redis Helm chart:
+
+`helm -n redis  install redis oci://registry-1.docker.io/bitnamicharts/redis --create-namespace`

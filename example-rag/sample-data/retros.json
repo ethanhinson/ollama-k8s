@@ -1,0 +1,108 @@
+[
+    {
+        "release_date": "2023-03-18",
+        "og_colorway": true,
+        "color_code": "White/Fire Red-Black",
+        "common_name": "Air Jordan 3 Retro 'White Cement Reimagined'",
+        "comments": "A modern take on the classic 'White Cement' colorway."
+    },
+    {
+        "release_date": "2022-09-10",
+        "og_colorway": true,
+        "color_code": "Black/University Red-White",
+        "common_name": "Air Jordan 1 Retro High OG 'Bred Patent'",
+        "comments": "Patent leather twist on the iconic 'Bred' colorway."
+    },
+    {
+        "release_date": "2022-05-25",
+        "og_colorway": false,
+        "color_code": "University Blue/White-Black",
+        "common_name": "Air Jordan 4 Retro 'University Blue'",
+        "comments": "Inspired by Michael Jordan's college team, the Tar Heels."
+    },
+    {
+        "release_date": "2023-11-15",
+        "og_colorway": true,
+        "color_code": "White/Black-Dark Powder Blue",
+        "common_name": "Air Jordan 9 Retro 'Powder Blue'",
+        "comments": "A return of the original 'Powder Blue' colorway."
+    },
+    {
+        "release_date": "2023-02-11",
+        "og_colorway": false,
+        "color_code": "Sail/Starfish-Black",
+        "common_name": "Air Jordan 1 Retro High OG 'Reverse Shattered Backboard'",
+        "comments": "A fresh twist on the popular 'Shattered Backboard' series."
+    },
+    {
+        "release_date": "1999-05-15",
+        "og_colorway": true,
+        "color_code": "White/Black-Red",
+        "common_name": "Air Jordan 4 Retro 'Cement'",
+        "comments": "One of the original colorways of the Air Jordan 4."
+    },
+    {
+        "release_date": "2000-08-05",
+        "og_colorway": true,
+        "color_code": "Black/Varsity Red",
+        "common_name": "Air Jordan 6 Retro 'Infrared'",
+        "comments": "The iconic 'Infrared' colorway re-released."
+    },
+    {
+        "release_date": "2001-11-17",
+        "og_colorway": false,
+        "color_code": "White/Varsity Red",
+        "common_name": "Air Jordan 11 Retro Low 'Cherry'",
+        "comments": "A popular low-top version of the Air Jordan 11."
+    },
+    {
+        "release_date": "2003-02-22",
+        "og_colorway": false,
+        "color_code": "Black/Metallic Silver",
+        "common_name": "Air Jordan 5 Retro 'Black Metallic'",
+        "comments": "A fresh take on the original 'Metallic' colorway."
+    },
+    {
+        "release_date": "2005-10-15",
+        "og_colorway": true,
+        "color_code": "White/Black-Red",
+        "common_name": "Air Jordan 1 Retro High OG 'Chicago'",
+        "comments": "The classic 'Chicago' colorway returns."
+    },
+    {
+        "release_date": "2006-01-21",
+        "og_colorway": false,
+        "color_code": "White/Columbia Blue-Black",
+        "common_name": "Air Jordan 11 Retro 'Columbia'",
+        "comments": "A beloved colorway reminiscent of MJ's UNC days."
+    },
+    {
+        "release_date": "2007-06-23",
+        "og_colorway": true,
+        "color_code": "White/Black-True Red",
+        "common_name": "Air Jordan 8 Retro 'Playoff'",
+        "comments": "A re-release of the 1993 championship colorway."
+    },
+    {
+        "release_date": "2008-03-08",
+        "og_colorway": false,
+        "color_code": "White/Fire Red-Cement Grey",
+        "common_name": "Air Jordan 3 Retro 'Fire Red'",
+        "comments": "A popular non-original colorway of the AJ3."
+    },
+    {
+        "release_date": "2009-05-30",
+        "og_colorway": true,
+        "color_code": "Black/Varsity Red",
+        "common_name": "Air Jordan 4 Retro 'Bred'",
+        "comments": "The iconic 'Bred' colorway makes a return."
+    },
+    {
+        "release_date": "2010-11-27",
+        "og_colorway": false,
+        "color_code": "Cool Grey/White",
+        "common_name": "Air Jordan 11 Retro 'Cool Grey'",
+        "comments": "A fan-favorite non-OG colorway of the Air Jordan 11."
+    }
+]
+

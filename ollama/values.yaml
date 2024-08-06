@@ -7,3 +7,6 @@ image: ollama/ollama
 nodeSelector: {}
 tolerations: []
 affinity: {}
+redis:
+  replicas: 1
+  port: 6379
